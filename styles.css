@@ -56,4 +56,6 @@ li {
 
 #end {
     color: rgb(255, 255, 255);
+    caption-side: bottom;
+    padding-top: 10px;
 }
